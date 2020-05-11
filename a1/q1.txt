@@ -1,0 +1,940 @@
+time taken = 
+0.7158586978912354
+good
+ground_truth
+['hertford_000116', 'hertford_000056', 'hertford_000091', 'new_000150', 'new_000230', 'hertford_000026', 'oxford_001612', 'hertford_000015', 'balliol_000173', 'hertford_000089', 'hertford_000123', 'hertford_000027', 'hertford_000066', 'oxford_001752', 'oxford_002505', 'hertford_000078', 'hertford_000106', 'bodleian_000226', 'oxford_001085', 'hertford_000064', 'oxford_002623', 'hertford_000070', 'hertford_000077', 'oxford_001123', 'hertford_000053', 'oxford_000317', 'oxford_003053', 'hertford_000059', 'hertford_000076', 'hertford_000062', 'oxford_003543', 'oxford_000259', 'hertford_000011', 'all_souls_000075', 'hertford_000063']
+Retrieved
+['magdalen_000693', 'bodleian_000009', 'new_000423', 'new_000418', 'christ_church_000320', 'oxford_000081', 'oxford_000685', 'oxford_000137', 'oxford_000673', 'new_000381', 'balliol_000019', 'new_000362', 'pitt_rivers_000194', 'hertford_000123', 'hertford_000064', 'bodleian_000364', 'keble_000237', 'jesus_000334', 'trinity_000225', 'oxford_001167', 'jesus_000332', 'oxford_002320', 'oxford_002043', 'ashmolean_000290', 'christ_church_000132', 'oxford_001232', 'oxford_002579', 'oxford_002905', 'oxford_001506', 'balliol_000208', 'oxford_000007', 'jesus_000333', 'hertford_000053', 'oxford_002944', 'bodleian_000378']
+Scores of retrieved
+                      name     score
+204        magdalen_000693  1.821504
+2954       bodleian_000009  1.862599
+4071            new_000423  1.872078
+1905            new_000418  1.880982
+1342  christ_church_000320  1.883991
+215          oxford_000081  1.903431
+3847         oxford_000685  1.917994
+2707         oxford_000137  1.924440
+3557         oxford_000673  1.939563
+2091            new_000381  1.953459
+3249        balliol_000019  1.962826
+944             new_000362  1.989334
+4277    pitt_rivers_000194  2.004347
+2549       hertford_000123  2.011985
+710        hertford_000064  2.023234
+1384       bodleian_000364  2.043289
+521           keble_000237  2.045579
+3997          jesus_000334  2.068136
+2376        trinity_000225  2.080913
+4092         oxford_001167  2.089990
+4222          jesus_000332  2.097911
+2511         oxford_002320  2.099396
+2200         oxford_002043  2.101599
+4232      ashmolean_000290  2.104835
+2762  christ_church_000132  2.110475
+727          oxford_001232  2.128187
+3268         oxford_002579  2.130454
+4780         oxford_002905  2.133849
+2158         oxford_001506  2.134558
+4855        balliol_000208  2.141196
+2800         oxford_000007  2.148195
+2856          jesus_000333  2.158639
+2156       hertford_000053  2.169822
+1110         oxford_002944  2.171957
+1456       bodleian_000378  2.177420
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7117424011230469
+good
+ground_truth
+['cornmarket_000047', 'cornmarket_000131', 'oxford_000545', 'oxford_000601', 'cornmarket_000019']
+Retrieved
+['oxford_001279', 'new_000380', 'oxford_000735', 'hertford_000089', 'jesus_000161']
+Scores of retrieved
+                 name     score
+3057    oxford_001279  2.009436
+656        new_000380  2.037707
+3789    oxford_000735  2.088259
+825   hertford_000089  2.095582
+256      jesus_000161  2.108894
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6781315803527832
+good
+ground_truth
+['radcliffe_camera_000523', 'oxford_002904', 'bodleian_000132', 'radcliffe_camera_000176', 'radcliffe_camera_000458', 'bodleian_000337', 'oxford_002286', 'radcliffe_camera_000456', 'radcliffe_camera_000169', 'radcliffe_camera_000145', 'radcliffe_camera_000167', 'radcliffe_camera_000027', 'bodleian_000290', 'radcliffe_camera_000235', 'radcliffe_camera_000026', 'radcliffe_camera_000241', 'oxford_000583', 'radcliffe_camera_000454', 'radcliffe_camera_000034', 'radcliffe_camera_000249', 'oxford_002694', 'radcliffe_camera_000093', 'oxford_002373', 'radcliffe_camera_000325', 'radcliffe_camera_000050', 'radcliffe_camera_000447', 'radcliffe_camera_000012', 'radcliffe_camera_000226', 'radcliffe_camera_000230', 'radcliffe_camera_000108', 'radcliffe_camera_000052', 'radcliffe_camera_000098', 'radcliffe_camera_000463', 'radcliffe_camera_000373', 'radcliffe_camera_000161', 'radcliffe_camera_000326', 'oxford_000733', 'bodleian_000076', 'bodleian_000096', 'radcliffe_camera_000264', 'radcliffe_camera_000092', 'radcliffe_camera_000041', 'oxford_002701', 'radcliffe_camera_000556', 'radcliffe_camera_000021', 'radcliffe_camera_000198', 'radcliffe_camera_000040', 'radcliffe_camera_000015', 'radcliffe_camera_000139', 'radcliffe_camera_000120', 'oxford_001614', 'bodleian_000036', 'oxford_001066', 'oxford_003382', 'radcliffe_camera_000394', 'radcliffe_camera_000412', 'radcliffe_camera_000255', 'oxford_002397', 'radcliffe_camera_000006', 'radcliffe_camera_000221', 'radcliffe_camera_000219', 'oxford_002890', 'bodleian_000167', 'radcliffe_camera_000201', 'radcliffe_camera_000519', 'radcliffe_camera_000059', 'radcliffe_camera_000238', 'radcliffe_camera_000439', 'radcliffe_camera_000047', 'radcliffe_camera_000335', 'radcliffe_camera_000083', 'radcliffe_camera_000105', 'radcliffe_camera_000345', 'radcliffe_camera_000025', 'radcliffe_camera_000381', 'radcliffe_camera_000276', 'radcliffe_camera_000248', 'radcliffe_camera_000115', 'bodleian_000168', 'oxford_001122', 'keble_000108', 'keble_000207', 'radcliffe_camera_000400', 'radcliffe_camera_000270', 'oxford_000773', 'all_souls_000183', 'bodleian_000410', 'radcliffe_camera_000130', 'radcliffe_camera_000112', 'radcliffe_camera_000004', 'radcliffe_camera_000116', 'radcliffe_camera_000457', 'radcliffe_camera_000397', 'radcliffe_camera_000337', 'radcliffe_camera_000258', 'bodleian_000106', 'radcliffe_camera_000287', 'radcliffe_camera_000443', 'radcliffe_camera_000209', 'radcliffe_camera_000232', 'radcliffe_camera_000234', 'oxford_000905', 'radcliffe_camera_000233', 'radcliffe_camera_000343', 'oxford_001892']
+Retrieved
+['oxford_003538', 'bodleian_000076', 'magdalen_000446', 'oxford_002955', 'oxford_002142', 'oxford_001385', 'all_souls_000183', 'magdalen_000762', 'radcliffe_camera_000235', 'oxford_001365', 'magdalen_000647', 'magdalen_000696', 'christ_church_000581', 'oxford_002951', 'worcester_000118', 'oxford_001169', 'oxford_001320', 'magdalen_000723', 'radcliffe_camera_000198', 'magdalen_000571', 'new_000915', 'all_souls_000087', 'radcliffe_camera_000226', 'jesus_000115', 'oxford_002471', 'magdalen_000152', 'oxford_000704', 'keble_000095', 'trinity_000283', 'magdalen_000703', 'magdalen_000000', 'radcliffe_camera_000072', 'oxford_003310', 'ashmolean_000241', 'magdalen_000620', 'oxford_000809', 'oxford_003078', 'oxford_002006', 'radcliffe_camera_000145', 'radcliffe_camera_000209', 'oxford_000728', 'radcliffe_camera_000477', 'oxford_003126', 'ashmolean_000183', 'magdalen_000506', 'all_souls_000066', 'oxford_001263', 'oxford_002356', 'oxford_000109', 'radcliffe_camera_000052', 'radcliffe_camera_000299', 'ashmolean_000229', 'oxford_000960', 'oxford_000992', 'new_000699', 'oxford_001463', 'oxford_000905', 'radcliffe_camera_000454', 'radcliffe_camera_000098', 'hertford_000066', 'oxford_000773', 'oxford_001937', 'oxford_000543', 'bodleian_000416', 'keble_000214', 'trinity_000017', 'radcliffe_camera_000279', 'christ_church_000598', 'christ_church_000307', 'magdalen_000864', 'worcester_000137', 'oxford_002158', 'bodleian_000340', 'oxford_002164', 'balliol_000194', 'oxford_003389', 'oxford_000909', 'oxford_001717', 'new_000964', 'radcliffe_camera_000349', 'oxford_000065', 'magdalen_000102', 'oxford_001528', 'radcliffe_camera_000569', 'keble_000113', 'radcliffe_camera_000367', 'balliol_000000', 'oxford_002562', 'magdalen_000560', 'oxford_002673', 'oxford_001474', 'radcliffe_camera_000105', 'oxford_002516', 'worcester_000144', 'magdalen_000118', 'christ_church_000416', 'magdalen_000943', 'christ_church_001026', 'balliol_000007', 'radcliffe_camera_000345', 'oxford_001666', 'christ_church_000393', 'trinity_000284', 'new_000884', 'radcliffe_camera_000381']
+Scores of retrieved
+                         name     score
+4512            oxford_003538  2.286746
+3995          bodleian_000076  2.299618
+2841          magdalen_000446  2.348263
+3582            oxford_002955  2.374547
+1068            oxford_002142  2.380473
+...                       ...       ...
+1554            oxford_001666  3.070592
+4000     christ_church_000393  3.072176
+166            trinity_000284  3.078687
+4543               new_000884  3.081325
+708   radcliffe_camera_000381  3.081721
+
+[105 rows x 2 columns]
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6805469989776611
+good
+ground_truth
+['balliol_000075', 'balliol_000194', 'balliol_000051', 'balliol_000085', 'balliol_000066']
+Retrieved
+['bodleian_000426', 'magdalen_000005', 'all_souls_000181', 'oxford_003225', 'bodleian_000356']
+Scores of retrieved
+                  name     score
+2805   bodleian_000426  2.476756
+2731   magdalen_000005  2.550035
+2307  all_souls_000181  2.608842
+2249     oxford_003225  2.610588
+1736   bodleian_000356  2.676974
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.714592456817627
+good
+ground_truth
+['balliol_000075', 'balliol_000194', 'balliol_000051', 'balliol_000085', 'balliol_000066']
+Retrieved
+['balliol_000069', 'balliol_000058', 'new_000461', 'oxford_000010', 'magdalen_000496']
+Scores of retrieved
+                 name     score
+1675   balliol_000069  1.789465
+2804   balliol_000058  2.023111
+4736       new_000461  2.141265
+338     oxford_000010  2.199065
+1386  magdalen_000496  2.201637
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7444362640380859
+good
+ground_truth
+['magdalen_000058', 'oxford_000605', 'magdalen_000078', 'magdalen_000560', 'magdalen_000072', 'magdalen_000053', 'magdalen_000449', 'magdalen_000783', 'magdalen_000001', 'magdalen_000051', 'magdalen_000504', 'magdalen_000014', 'magdalen_000503']
+Retrieved
+['oxford_003530', 'christ_church_000435', 'magdalen_001148', 'bodleian_000168', 'oxford_000542', 'radcliffe_camera_000155', 'radcliffe_camera_000259', 'radcliffe_camera_000552', 'oxford_000521', 'oxford_001639', 'oxford_002511', 'christ_church_000408', 'christ_church_000664']
+Scores of retrieved
+                         name     score
+716             oxford_003530  2.499934
+4812     christ_church_000435  2.528638
+1107          magdalen_001148  2.532450
+837           bodleian_000168  2.540937
+1962            oxford_000542  2.578505
+923   radcliffe_camera_000155  2.615813
+2640  radcliffe_camera_000259  2.636253
+110   radcliffe_camera_000552  2.652791
+1202            oxford_000521  2.653267
+725             oxford_001639  2.687939
+4791            oxford_002511  2.694305
+3109     christ_church_000408  2.728226
+1109     christ_church_000664  2.730997
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7567403316497803
+good
+ground_truth
+['bodleian_000329', 'bodleian_000208', 'bodleian_000077', 'bodleian_000107', 'bodleian_000298', 'bodleian_000407', 'bodleian_000085', 'bodleian_000294', 'bodleian_000381', 'bodleian_000163', 'bodleian_000364', 'oxford_002576', 'bodleian_000108']
+Retrieved
+['oxford_002905', 'oxford_002017', 'magdalen_000277', 'new_000389', 'oxford_000137', 'oxford_001150', 'magdalen_000174', 'jesus_000293', 'hertford_000116', 'magdalen_000792', 'magdalen_000190', 'oxford_002417', 'oxford_002783']
+Scores of retrieved
+                 name     score
+4780    oxford_002905  1.821732
+3913    oxford_002017  2.144880
+2939  magdalen_000277  2.162746
+4632       new_000389  2.163299
+2708    oxford_000137  2.166006
+4679    oxford_001150  2.172468
+2036  magdalen_000174  2.224201
+882      jesus_000293  2.228060
+3194  hertford_000116  2.236603
+3240  magdalen_000792  2.240310
+3461  magdalen_000190  2.241452
+2571    oxford_002417  2.241808
+3109    oxford_002783  2.245704
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.8686230182647705
+good
+ground_truth
+['keble_000214', 'keble_000227', 'keble_000028', 'keble_000055', 'oxford_002501', 'keble_000245']
+Retrieved
+['oxford_001833', 'oxford_001215', 'oxford_000076', 'magdalen_000723', 'keble_000095', 'new_000486']
+Scores of retrieved
+                 name     score
+199     oxford_001833  1.945664
+3321    oxford_001215  2.166310
+1002    oxford_000076  2.428601
+3245  magdalen_000723  2.501826
+3364     keble_000095  2.515854
+1613       new_000486  2.534464
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+1.1033194065093994
+good
+ground_truth
+['bodleian_000329', 'bodleian_000208', 'bodleian_000077', 'bodleian_000107', 'bodleian_000298', 'bodleian_000407', 'bodleian_000085', 'bodleian_000294', 'bodleian_000381', 'bodleian_000163', 'bodleian_000364', 'oxford_002576', 'bodleian_000108']
+Retrieved
+['bodleian_000140', 'christ_church_000535', 'oriel_000033', 'new_000589', 'trinity_000012', 'oxford_002896', 'oxford_003010', 'balliol_000061', 'trinity_000139', 'magdalen_000038', 'oxford_003112', 'oxford_001665', 'bodleian_000447']
+Scores of retrieved
+                      name     score
+3676       bodleian_000140  1.183394
+2494  christ_church_000535  1.270740
+1512          oriel_000033  1.294627
+2222            new_000589  1.294731
+3985        trinity_000012  1.363577
+1970         oxford_002896  1.430629
+4355         oxford_003010  1.432367
+3197        balliol_000061  1.439214
+3926        trinity_000139  1.482778
+2621       magdalen_000038  1.505798
+4671         oxford_003112  1.532380
+427          oxford_001665  1.555325
+1472       bodleian_000447  1.568080
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.8400468826293945
+good
+ground_truth
+['pitt_rivers_000119', 'pitt_rivers_000153', 'pitt_rivers_000033']
+Retrieved
+['oxford_001833', 'oxford_001215', 'keble_000214']
+Scores of retrieved
+               name     score
+199   oxford_001833  2.487641
+3322  oxford_001215  2.521721
+677    keble_000214  2.568815
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.9864110946655273
+good
+ground_truth
+['balliol_000075', 'balliol_000194', 'balliol_000051', 'balliol_000085', 'balliol_000066']
+Retrieved
+['all_souls_000090', 'all_souls_000014', 'oxford_001214', 'oxford_002075', 'bodleian_000013']
+Scores of retrieved
+                  name     score
+789   all_souls_000090  2.686101
+1219  all_souls_000014  2.867862
+448      oxford_001214  2.950063
+3654     oxford_002075  2.997516
+3044   bodleian_000013  3.028450
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6952722072601318
+good
+ground_truth
+['cornmarket_000047', 'cornmarket_000131', 'oxford_000545', 'oxford_000601', 'cornmarket_000019']
+Retrieved
+['oxford_002675', 'oxford_000010', 'jesus_000012', 'christ_church_000983', 'trinity_000336']
+Scores of retrieved
+                      name     score
+1081         oxford_002675  1.661370
+338          oxford_000010  1.672939
+3240          jesus_000012  1.713411
+1963  christ_church_000983  1.718960
+3472        trinity_000336  1.729276
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7147538661956787
+good
+ground_truth
+['magdalen_000058', 'oxford_000605', 'magdalen_000078', 'magdalen_000560', 'magdalen_000072', 'magdalen_000053', 'magdalen_000449', 'magdalen_000783', 'magdalen_000001', 'magdalen_000051', 'magdalen_000504', 'magdalen_000014', 'magdalen_000503']
+Retrieved
+['christ_church_000081', 'oxford_001504', 'christ_church_000586', 'oxford_003569', 'christ_church_000048', 'oxford_000012', 'oxford_000106', 'ashmolean_000024', 'bodleian_000446', 'oxford_002623', 'oxford_000073', 'radcliffe_camera_000295', 'pitt_rivers_000006']
+Scores of retrieved
+                         name     score
+4860     christ_church_000081  2.435552
+921             oxford_001504  2.549700
+3902     christ_church_000586  2.576439
+4699            oxford_003569  2.622614
+3371     christ_church_000048  2.633708
+1493            oxford_000012  2.680077
+1544            oxford_000106  2.724812
+1812         ashmolean_000024  2.739646
+2626          bodleian_000446  2.774392
+3388            oxford_002623  2.779321
+4050            oxford_000073  2.794620
+2687  radcliffe_camera_000295  2.807624
+4097       pitt_rivers_000006  2.817037
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6928222179412842
+good
+ground_truth
+['all_souls_000091', 'all_souls_000026', 'oxford_003410', 'oxford_002985', 'all_souls_000015', 'oxford_000926', 'all_souls_000055', 'oxford_001955', 'all_souls_000140', 'all_souls_000068', 'all_souls_000002', 'all_souls_000006', 'all_souls_000209', 'all_souls_000146', 'oxford_001264', 'all_souls_000013', 'oxford_000669', 'oxford_002503', 'oxford_002338', 'oxford_000962', 'all_souls_000040', 'all_souls_000150', 'oxford_001308', 'oxford_001806']
+Retrieved
+['oxford_001483', 'balliol_000078', 'oxford_000849', 'christ_church_000137', 'oriel_000094', 'magdalen_000669', 'worcester_000064', 'new_000693', 'keble_000005', 'magdalen_000103', 'radcliffe_camera_000201', 'hertford_000010', 'radcliffe_camera_000209', 'radcliffe_camera_000412', 'new_001036', 'new_000646', 'magdalen_000597', 'keble_000016', 'new_000373', 'new_001081', 'oxford_001152', 'all_souls_000136', 'oxford_001291', 'keble_000043']
+Scores of retrieved
+                         name     score
+1331            oxford_001483  2.859499
+1288           balliol_000078  2.874635
+2232            oxford_000849  3.053345
+3004     christ_church_000137  3.090118
+24               oriel_000094  3.115618
+2946          magdalen_000669  3.155022
+2539         worcester_000064  3.166823
+2435               new_000693  3.180180
+3065             keble_000005  3.233619
+1740          magdalen_000103  3.267761
+360   radcliffe_camera_000201  3.301130
+1646          hertford_000010  3.351057
+67    radcliffe_camera_000209  3.353011
+328   radcliffe_camera_000412  3.384475
+505                new_001036  3.389061
+2977               new_000646  3.389466
+1290          magdalen_000597  3.398187
+2018             keble_000016  3.428573
+1461               new_000373  3.434563
+3248               new_001081  3.460193
+3267            oxford_001152  3.475941
+174          all_souls_000136  3.477911
+2039            oxford_001291  3.489780
+2901             keble_000043  3.504114
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7151601314544678
+good
+ground_truth
+['magdalen_000058', 'oxford_000605', 'magdalen_000078', 'magdalen_000560', 'magdalen_000072', 'magdalen_000053', 'magdalen_000449', 'magdalen_000783', 'magdalen_000001', 'magdalen_000051', 'magdalen_000504', 'magdalen_000014', 'magdalen_000503']
+Retrieved
+['radcliffe_camera_000239', 'oxford_003194', 'new_000707', 'radcliffe_camera_000160', 'all_souls_000015', 'radcliffe_camera_000164', 'oxford_000859', 'oriel_000047', 'oxford_002203', 'keble_000206', 'ashmolean_000104', 'radcliffe_camera_000027', 'oxford_002893']
+Scores of retrieved
+                         name     score
+1689  radcliffe_camera_000239  3.083542
+4300            oxford_003194  3.521370
+1004               new_000707  3.724586
+5007  radcliffe_camera_000160  3.762223
+1097         all_souls_000015  3.809279
+1720  radcliffe_camera_000164  3.847321
+4564            oxford_000859  3.877873
+2309             oriel_000047  3.978995
+3498            oxford_002203  3.982471
+1509             keble_000206  4.035714
+2480         ashmolean_000104  4.051812
+124   radcliffe_camera_000027  4.073217
+1123            oxford_002893  4.098181
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7384676933288574
+good
+ground_truth
+['ashmolean_000007', 'ashmolean_000002', 'ashmolean_000024', 'ashmolean_000028', 'ashmolean_000058', 'ashmolean_000303', 'ashmolean_000005', 'ashmolean_000106', 'oxford_001964', 'ashmolean_000079', 'ashmolean_000000', 'ashmolean_000016']
+Retrieved
+['oxford_003168', 'magdalen_000227', 'magdalen_000302', 'magdalen_000991', 'bodleian_000067', 'oxford_000425', 'oxford_003457', 'pitt_rivers_000072', 'ashmolean_000061', 'new_000805', 'oxford_001063', 'oxford_001259']
+Scores of retrieved
+                    name     score
+2269       oxford_003168  2.331519
+3760     magdalen_000227  2.338299
+2319     magdalen_000302  2.400708
+1165     magdalen_000991  2.459788
+312      bodleian_000067  2.496849
+648        oxford_000425  2.531732
+1276       oxford_003457  2.555218
+556   pitt_rivers_000072  2.575594
+2163    ashmolean_000061  2.602623
+121           new_000805  2.621562
+1718       oxford_001063  2.630267
+3920       oxford_001259  2.643313
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.719597339630127
+good
+ground_truth
+['hertford_000116', 'hertford_000056', 'hertford_000091', 'new_000150', 'new_000230', 'hertford_000026', 'oxford_001612', 'hertford_000015', 'balliol_000173', 'hertford_000089', 'hertford_000123', 'hertford_000027', 'hertford_000066', 'oxford_001752', 'oxford_002505', 'hertford_000078', 'hertford_000106', 'bodleian_000226', 'oxford_001085', 'hertford_000064', 'oxford_002623', 'hertford_000070', 'hertford_000077', 'oxford_001123', 'hertford_000053', 'oxford_000317', 'oxford_003053', 'hertford_000059', 'hertford_000076', 'hertford_000062', 'oxford_003543', 'oxford_000259', 'hertford_000011', 'all_souls_000075', 'hertford_000063']
+Retrieved
+['oxford_001612', 'new_000419', 'oxford_002295', 'oxford_002409', 'oxford_000763', 'magdalen_000704', 'magdalen_000288', 'christ_church_000565', 'all_souls_000120', 'oxford_001233', 'jesus_000333', 'pitt_rivers_000126', 'jesus_000328', 'hertford_000091', 'oxford_001127', 'magdalen_000302', 'christ_church_000563', 'oxford_002422', 'oxford_001220', 'oxford_000007', 'oxford_003096', 'magdalen_000776', 'magdalen_000982', 'magdalen_000860', 'oxford_001188', 'new_000345', 'keble_000026', 'jesus_000329', 'oxford_000601', 'magdalen_000865', 'magdalen_000991', 'magdalen_000025', 'christ_church_000314', 'balliol_000064', 'jesus_000332']
+Scores of retrieved
+                      name     score
+1435         oxford_001612  2.034955
+1177            new_000419  2.048055
+1549         oxford_002295  2.099945
+938          oxford_002409  2.130316
+4480         oxford_000763  2.146489
+3774       magdalen_000704  2.195778
+473        magdalen_000288  2.288133
+2867  christ_church_000565  2.291741
+874       all_souls_000120  2.320216
+3886         oxford_001233  2.327908
+2856          jesus_000333  2.353056
+2682    pitt_rivers_000126  2.370155
+1612          jesus_000328  2.371064
+2614       hertford_000091  2.382592
+3604         oxford_001127  2.395157
+2319       magdalen_000302  2.414232
+2742  christ_church_000563  2.417078
+4091         oxford_002422  2.417739
+2422         oxford_001220  2.421827
+2800         oxford_000007  2.422392
+292          oxford_003096  2.425029
+1975       magdalen_000776  2.425494
+4519       magdalen_000982  2.427526
+4794       magdalen_000860  2.433820
+1315         oxford_001188  2.434043
+1076            new_000345  2.435135
+499           keble_000026  2.440502
+3843          jesus_000329  2.442881
+3597         oxford_000601  2.446409
+4432       magdalen_000865  2.447383
+1165       magdalen_000991  2.448728
+2238       magdalen_000025  2.449736
+4070  christ_church_000314  2.460259
+2380        balliol_000064  2.461718
+4222          jesus_000332  2.475411
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7040679454803467
+good
+ground_truth
+['christ_church_000179', 'christ_church_000450', 'christ_church_000104', 'christ_church_000696', 'christ_church_000279', 'christ_church_000308', 'christ_church_000366', 'christ_church_001070', 'christ_church_000078', 'christ_church_000549', 'christ_church_000999', 'oxford_001666', 'christ_church_000447', 'christ_church_000061', 'christ_church_000146', 'christ_church_000333', 'christ_church_000758', 'christ_church_000976', 'christ_church_000198', 'christ_church_000996', 'christ_church_000664', 'christ_church_001045', 'christ_church_000681', 'christ_church_000642', 'christ_church_001142', 'christ_church_000532', 'oxford_002734', 'christ_church_000645', 'christ_church_000757', 'christ_church_000035', 'christ_church_000802', 'christ_church_000395', 'christ_church_000623', 'christ_church_000436', 'christ_church_000073', 'christ_church_000718', 'christ_church_000228', 'christ_church_000911', 'christ_church_000212', 'christ_church_000190', 'christ_church_000064', 'christ_church_001020', 'christ_church_000376', 'christ_church_000435', 'christ_church_000673', 'oxford_000623', 'christ_church_000932', 'christ_church_000311', 'oxford_002858', 'oxford_002888', 'christ_church_001033']
+Retrieved
+['oxford_001892', 'oxford_000752', 'new_000485', 'oxford_001392', 'christ_church_000623', 'new_000978', 'radcliffe_camera_000442', 'radcliffe_camera_000302', 'radcliffe_camera_000309', 'christ_church_000532', 'oxford_002100', 'oxford_002704', 'all_souls_000213', 'new_000631', 'magdalen_000093', 'jesus_000194', 'new_000858', 'oriel_000102', 'oxford_002898', 'oxford_002745', 'trinity_000042', 'christ_church_000543', 'oxford_001783', 'oriel_000077', 'oxford_003478', 'christ_church_000099', 'radcliffe_camera_000106', 'magdalen_000738', 'new_000682', 'new_000632', 'new_001112', 'radcliffe_camera_000559', 'magdalen_000608', 'trinity_000045', 'ashmolean_000326', 'radcliffe_camera_000249', 'all_souls_000044', 'magdalen_001141', 'oxford_000873', 'oriel_000041', 'keble_000042', 'christ_church_000718', 'new_000877', 'new_000226', 'christ_church_000366', 'pitt_rivers_000001', 'new_000502', 'new_000664', 'radcliffe_camera_000431', 'christ_church_000998', 'christ_church_000436']
+Scores of retrieved
+                         name     score
+3               oxford_001892  2.730929
+3157            oxford_000752  3.103764
+4037               new_000485  3.184729
+4146            oxford_001392  3.222717
+3086     christ_church_000623  3.280348
+3574               new_000978  3.282746
+2362  radcliffe_camera_000442  3.289995
+2160  radcliffe_camera_000302  3.297306
+2288  radcliffe_camera_000309  3.391858
+451      christ_church_000532  3.397949
+3491            oxford_002100  3.423424
+356             oxford_002704  3.440215
+2883         all_souls_000213  3.441399
+1949               new_000631  3.453423
+401           magdalen_000093  3.454829
+3320             jesus_000194  3.463746
+4630               new_000858  3.483558
+1732             oriel_000102  3.490023
+794             oxford_002898  3.496862
+634             oxford_002745  3.497253
+1783           trinity_000042  3.524792
+918      christ_church_000543  3.542092
+3468            oxford_001783  3.545055
+556              oriel_000077  3.545590
+1819            oxford_003478  3.556976
+1860     christ_church_000099  3.560264
+1716  radcliffe_camera_000106  3.583971
+984           magdalen_000738  3.588370
+761                new_000682  3.594201
+2520               new_000632  3.605087
+4939               new_001112  3.605789
+355   radcliffe_camera_000559  3.606979
+910           magdalen_000608  3.608335
+4712           trinity_000045  3.611965
+4924         ashmolean_000326  3.617469
+2167  radcliffe_camera_000249  3.618855
+3720         all_souls_000044  3.622508
+4282          magdalen_001141  3.627291
+2328            oxford_000873  3.649243
+344              oriel_000041  3.649683
+1106             keble_000042  3.671304
+4055     christ_church_000718  3.674139
+1011               new_000877  3.687186
+1046               new_000226  3.691446
+2960     christ_church_000366  3.705298
+1893       pitt_rivers_000001  3.711823
+246                new_000502  3.726640
+3060               new_000664  3.731649
+1572  radcliffe_camera_000431  3.732921
+1384     christ_church_000998  3.733213
+3925     christ_church_000436  3.733748
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7756302356719971
+good
+ground_truth
+['christ_church_000179', 'christ_church_000450', 'christ_church_000104', 'christ_church_000696', 'christ_church_000279', 'christ_church_000308', 'christ_church_000366', 'christ_church_001070', 'christ_church_000078', 'christ_church_000549', 'christ_church_000999', 'oxford_001666', 'christ_church_000447', 'christ_church_000061', 'christ_church_000146', 'christ_church_000333', 'christ_church_000758', 'christ_church_000976', 'christ_church_000198', 'christ_church_000996', 'christ_church_000664', 'christ_church_001045', 'christ_church_000681', 'christ_church_000642', 'christ_church_001142', 'christ_church_000532', 'oxford_002734', 'christ_church_000645', 'christ_church_000757', 'christ_church_000035', 'christ_church_000802', 'christ_church_000395', 'christ_church_000623', 'christ_church_000436', 'christ_church_000073', 'christ_church_000718', 'christ_church_000228', 'christ_church_000911', 'christ_church_000212', 'christ_church_000190', 'christ_church_000064', 'christ_church_001020', 'christ_church_000376', 'christ_church_000435', 'christ_church_000673', 'oxford_000623', 'christ_church_000932', 'christ_church_000311', 'oxford_002858', 'oxford_002888', 'christ_church_001033']
+Retrieved
+['christ_church_000437', 'christ_church_000664', 'all_souls_000146', 'new_000979', 'all_souls_000142', 'oxford_003642', 'bodleian_000179', 'all_souls_000026', 'radcliffe_camera_000481', 'bodleian_000395', 'christ_church_000293', 'magdalen_000476', 'christ_church_000395', 'magdalen_000623', 'bodleian_000037', 'all_souls_000209', 'oxford_003033', 'christ_church_000435', 'christ_church_000131', 'oxford_002890', 'pitt_rivers_000119', 'oxford_001427', 'oxford_001356', 'radcliffe_camera_000161', 'radcliffe_camera_000552', 'bodleian_000167', 'radcliffe_camera_000390', 'trinity_000339', 'oxford_003204', 'bodleian_000232', 'balliol_000050', 'oriel_000091', 'christ_church_000408', 'magdalen_000577', 'radcliffe_camera_000155', 'magdalen_001155', 'oxford_000404', 'radcliffe_camera_000229', 'oxford_002888', 'bodleian_000168', 'magdalen_000576', 'oriel_000089', 'magdalen_001140', 'magdalen_000299', 'radcliffe_camera_000082', 'oxford_000180', 'christ_church_001029', 'oxford_003060', 'christ_church_000856', 'christ_church_001020', 'oxford_003335']
+Scores of retrieved
+                         name     score
+3185     christ_church_000437  2.457783
+1109     christ_church_000664  2.467396
+1259         all_souls_000146  2.605923
+3209               new_000979  2.840103
+1429         all_souls_000142  2.916575
+4977            oxford_003642  3.039215
+4014          bodleian_000179  3.059999
+1452         all_souls_000026  3.081448
+3266  radcliffe_camera_000481  3.120469
+3098          bodleian_000395  3.162677
+1794     christ_church_000293  3.188147
+5005          magdalen_000476  3.230369
+3533     christ_church_000395  3.234638
+4626          magdalen_000623  3.252400
+3973          bodleian_000037  3.252699
+4828         all_souls_000209  3.257935
+4905            oxford_003033  3.298907
+4812     christ_church_000435  3.323609
+1378     christ_church_000131  3.396484
+3210            oxford_002890  3.423688
+1354       pitt_rivers_000119  3.466341
+2776            oxford_001427  3.487803
+3050            oxford_001356  3.512699
+4211  radcliffe_camera_000161  3.517748
+110   radcliffe_camera_000552  3.533530
+4802          bodleian_000167  3.550677
+3966  radcliffe_camera_000390  3.555068
+4556           trinity_000339  3.565331
+3413            oxford_003204  3.586176
+2929          bodleian_000232  3.590227
+3322           balliol_000050  3.627334
+3590             oriel_000091  3.637333
+3109     christ_church_000408  3.646938
+271           magdalen_000577  3.653992
+923   radcliffe_camera_000155  3.675411
+251           magdalen_001155  3.679623
+126             oxford_000404  3.683980
+810   radcliffe_camera_000229  3.690701
+3234            oxford_002888  3.692109
+837           bodleian_000168  3.706301
+3071          magdalen_000576  3.708988
+3290             oriel_000089  3.709058
+4906          magdalen_001140  3.741637
+2308          magdalen_000299  3.757073
+1360  radcliffe_camera_000082  3.759374
+3464            oxford_000180  3.771815
+4308     christ_church_001029  3.777514
+2791            oxford_003060  3.785057
+2369     christ_church_000856  3.797071
+2134     christ_church_001020  3.809819
+2859            oxford_003335  3.812210
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.8304033279418945
+good
+ground_truth
+['keble_000214', 'keble_000227', 'keble_000028', 'keble_000055', 'oxford_002501', 'keble_000245']
+Retrieved
+['balliol_000033', 'oxford_003560', 'magdalen_000442', 'radcliffe_camera_000249', 'radcliffe_camera_000337', 'magdalen_000633']
+Scores of retrieved
+                         name     score
+1259           balliol_000033  2.801198
+2464            oxford_003560  3.036833
+2587          magdalen_000442  3.057779
+2166  radcliffe_camera_000249  3.068065
+4706  radcliffe_camera_000337  3.086380
+2079          magdalen_000633  3.102772
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.752356767654419
+good
+ground_truth
+['pitt_rivers_000119', 'pitt_rivers_000153', 'pitt_rivers_000033']
+Retrieved
+['oxford_001483', 'oxford_001789', 'radcliffe_camera_000481']
+Scores of retrieved
+                         name     score
+1331            oxford_001483  2.140545
+436             oxford_001789  2.178304
+3266  radcliffe_camera_000481  2.221863
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7618815898895264
+good
+ground_truth
+['pitt_rivers_000119', 'pitt_rivers_000153', 'pitt_rivers_000033']
+Retrieved
+['new_000883', 'ashmolean_000263', 'keble_000036']
+Scores of retrieved
+                  name     score
+163         new_000883  2.067672
+415   ashmolean_000263  2.262673
+1333      keble_000036  2.281323
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7254171371459961
+good
+ground_truth
+['bodleian_000329', 'bodleian_000208', 'bodleian_000077', 'bodleian_000107', 'bodleian_000298', 'bodleian_000407', 'bodleian_000085', 'bodleian_000294', 'bodleian_000381', 'bodleian_000163', 'bodleian_000364', 'oxford_002576', 'bodleian_000108']
+Retrieved
+['oxford_001505', 'oxford_003347', 'oxford_000574', 'new_000028', 'bodleian_000405', 'all_souls_000022', 'all_souls_000012', 'christ_church_000641', 'oxford_001440', 'balliol_000057', 'christ_church_000128', 'oxford_001222', 'oxford_002156']
+Scores of retrieved
+                      name     score
+4592         oxford_001505  2.300556
+956          oxford_003347  2.335403
+4819         oxford_000574  2.335807
+2821            new_000028  2.386138
+4077       bodleian_000405  2.458068
+5061      all_souls_000022  2.514253
+2238      all_souls_000012  2.548697
+2333  christ_church_000641  2.550820
+969          oxford_001440  2.554080
+257         balliol_000057  2.557126
+3595  christ_church_000128  2.565790
+4316         oxford_001222  2.590656
+2110         oxford_002156  2.601320
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6918201446533203
+good
+ground_truth
+['hertford_000116', 'hertford_000056', 'hertford_000091', 'new_000150', 'new_000230', 'hertford_000026', 'oxford_001612', 'hertford_000015', 'balliol_000173', 'hertford_000089', 'hertford_000123', 'hertford_000027', 'hertford_000066', 'oxford_001752', 'oxford_002505', 'hertford_000078', 'hertford_000106', 'bodleian_000226', 'oxford_001085', 'hertford_000064', 'oxford_002623', 'hertford_000070', 'hertford_000077', 'oxford_001123', 'hertford_000053', 'oxford_000317', 'oxford_003053', 'hertford_000059', 'hertford_000076', 'hertford_000062', 'oxford_003543', 'oxford_000259', 'hertford_000011', 'all_souls_000075', 'hertford_000063']
+Retrieved
+['magdalen_000294', 'oxford_001728', 'oxford_002417', 'trinity_000091', 'pitt_rivers_000127', 'new_000170', 'oxford_003577', 'jesus_000123', 'oxford_002904', 'oxford_002414', 'bodleian_000009', 'new_000150', 'magdalen_000944', 'magdalen_000111', 'oxford_003633', 'oxford_002615', 'pitt_rivers_000014', 'ashmolean_000280', 'magdalen_000657', 'oxford_002821', 'bodleian_000330', 'new_000184', 'radcliffe_camera_000423', 'trinity_000003', 'oxford_000896', 'pitt_rivers_000176', 'christ_church_000758', 'oxford_001861', 'oxford_001276', 'oxford_003312', 'oxford_003293', 'trinity_000194', 'oxford_000808', 'christ_church_000792', 'christ_church_000364']
+Scores of retrieved
+                         name     score
+3930          magdalen_000294  1.899561
+4734            oxford_001728  1.970602
+2570            oxford_002417  1.977667
+4177           trinity_000091  2.058022
+1503       pitt_rivers_000127  2.086439
+4886               new_000170  2.095194
+4008            oxford_003577  2.130302
+3094             jesus_000123  2.144729
+2326            oxford_002904  2.183502
+3119            oxford_002414  2.186227
+2954          bodleian_000009  2.192041
+4565               new_000150  2.208929
+2966          magdalen_000944  2.210900
+1656          magdalen_000111  2.214721
+2290            oxford_003633  2.215977
+4774            oxford_002615  2.223492
+3405       pitt_rivers_000014  2.231947
+830          ashmolean_000280  2.246815
+3807          magdalen_000657  2.252734
+4559            oxford_002821  2.262048
+4894          bodleian_000330  2.285047
+3252               new_000184  2.303421
+2067  radcliffe_camera_000423  2.313634
+2111           trinity_000003  2.320027
+3407            oxford_000896  2.332332
+4499       pitt_rivers_000176  2.336001
+3325     christ_church_000758  2.336161
+3115            oxford_001861  2.341374
+1861            oxford_001276  2.355141
+4762            oxford_003312  2.358839
+3097            oxford_003293  2.359432
+3908           trinity_000194  2.361494
+3813            oxford_000808  2.365483
+93       christ_church_000792  2.371144
+3022     christ_church_000364  2.377054
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.713531494140625
+good
+ground_truth
+['keble_000214', 'keble_000227', 'keble_000028', 'keble_000055', 'oxford_002501', 'keble_000245']
+Retrieved
+['oxford_002569', 'oxford_002494', 'christ_church_000089', 'christ_church_000753', 'magdalen_000409', 'christ_church_000429']
+Scores of retrieved
+                      name     score
+1021         oxford_002569  1.511019
+2430         oxford_002494  1.545926
+1672  christ_church_000089  1.566193
+2928  christ_church_000753  1.604244
+1052       magdalen_000409  1.604662
+2011  christ_church_000429  1.631717
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7055790424346924
+good
+ground_truth
+['all_souls_000091', 'all_souls_000026', 'oxford_003410', 'oxford_002985', 'all_souls_000015', 'oxford_000926', 'all_souls_000055', 'oxford_001955', 'all_souls_000140', 'all_souls_000068', 'all_souls_000002', 'all_souls_000006', 'all_souls_000209', 'all_souls_000146', 'oxford_001264', 'all_souls_000013', 'oxford_000669', 'oxford_002503', 'oxford_002338', 'oxford_000962', 'all_souls_000040', 'all_souls_000150', 'oxford_001308', 'oxford_001806']
+Retrieved
+['jesus_000042', 'radcliffe_camera_000253', 'christ_church_000377', 'magdalen_000973', 'christ_church_000093', 'christ_church_000226', 'radcliffe_camera_000041', 'magdalen_000712', 'christ_church_000706', 'oxford_002192', 'new_000688', 'ashmolean_000066', 'magdalen_001026', 'oxford_000046', 'radcliffe_camera_000146', 'oxford_003410', 'christ_church_000347', 'keble_000172', 'radcliffe_camera_000190', 'all_souls_000206', 'oxford_002139', 'pitt_rivers_000128', 'oxford_002368', 'trinity_000233']
+Scores of retrieved
+                         name     score
+4050             jesus_000042  3.332649
+76    radcliffe_camera_000253  3.386677
+1199     christ_church_000377  3.529111
+4005          magdalen_000973  3.550987
+576      christ_church_000093  3.598553
+3791     christ_church_000226  3.602677
+226   radcliffe_camera_000041  3.651960
+2795          magdalen_000712  3.655816
+5037     christ_church_000706  3.769230
+4134            oxford_002192  3.854522
+3603               new_000688  3.920899
+1448         ashmolean_000066  3.926948
+3478          magdalen_001026  3.945013
+730             oxford_000046  3.966307
+3595  radcliffe_camera_000146  3.967896
+3512            oxford_003410  3.973191
+3215     christ_church_000347  3.973347
+4685             keble_000172  3.991569
+16    radcliffe_camera_000190  4.027774
+1962         all_souls_000206  4.054323
+1611            oxford_002139  4.054843
+3827       pitt_rivers_000128  4.057181
+3918            oxford_002368  4.057862
+125            trinity_000233  4.059405
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6925802230834961
+good
+ground_truth
+['all_souls_000091', 'all_souls_000026', 'oxford_003410', 'oxford_002985', 'all_souls_000015', 'oxford_000926', 'all_souls_000055', 'oxford_001955', 'all_souls_000140', 'all_souls_000068', 'all_souls_000002', 'all_souls_000006', 'all_souls_000209', 'all_souls_000146', 'oxford_001264', 'all_souls_000013', 'oxford_000669', 'oxford_002503', 'oxford_002338', 'oxford_000962', 'all_souls_000040', 'all_souls_000150', 'oxford_001308', 'oxford_001806']
+Retrieved
+['oxford_000180', 'all_souls_000142', 'balliol_000075', 'oxford_002890', 'oxford_003055', 'magdalen_001140', 'bodleian_000232', 'pitt_rivers_000119', 'oxford_003204', 'magdalen_000623', 'oxford_002701', 'balliol_000101', 'bodleian_000167', 'trinity_000339', 'ashmolean_000339', 'magdalen_000576', 'oxford_002472', 'oxford_001911', 'radcliffe_camera_000481', 'christ_church_000395', 'oxford_000736', 'magdalen_000544', 'balliol_000050', 'oxford_003529']
+Scores of retrieved
+                         name     score
+3464            oxford_000180  2.179416
+1429         all_souls_000142  2.275693
+2687           balliol_000075  2.284615
+3210            oxford_002890  2.448290
+3706            oxford_003055  2.458454
+4906          magdalen_001140  2.512672
+2929          bodleian_000232  2.572455
+1354       pitt_rivers_000119  2.607443
+3413            oxford_003204  2.655197
+4626          magdalen_000623  2.677459
+3443            oxford_002701  2.680227
+3912           balliol_000101  2.709249
+4802          bodleian_000167  2.759792
+4556           trinity_000339  2.785868
+1362         ashmolean_000339  2.803167
+3071          magdalen_000576  2.810832
+2330            oxford_002472  2.871913
+477             oxford_001911  2.883861
+3266  radcliffe_camera_000481  2.884101
+3533     christ_church_000395  2.928697
+3411            oxford_000736  2.938928
+2438          magdalen_000544  2.957698
+3322           balliol_000050  2.981566
+47              oxford_003529  2.986193
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.6843173503875732
+good
+ground_truth
+['christ_church_000179', 'christ_church_000450', 'christ_church_000104', 'christ_church_000696', 'christ_church_000279', 'christ_church_000308', 'christ_church_000366', 'christ_church_001070', 'christ_church_000078', 'christ_church_000549', 'christ_church_000999', 'oxford_001666', 'christ_church_000447', 'christ_church_000061', 'christ_church_000146', 'christ_church_000333', 'christ_church_000758', 'christ_church_000976', 'christ_church_000198', 'christ_church_000996', 'christ_church_000664', 'christ_church_001045', 'christ_church_000681', 'christ_church_000642', 'christ_church_001142', 'christ_church_000532', 'oxford_002734', 'christ_church_000645', 'christ_church_000757', 'christ_church_000035', 'christ_church_000802', 'christ_church_000395', 'christ_church_000623', 'christ_church_000436', 'christ_church_000073', 'christ_church_000718', 'christ_church_000228', 'christ_church_000911', 'christ_church_000212', 'christ_church_000190', 'christ_church_000064', 'christ_church_001020', 'christ_church_000376', 'christ_church_000435', 'christ_church_000673', 'oxford_000623', 'christ_church_000932', 'christ_church_000311', 'oxford_002858', 'oxford_002888', 'christ_church_001033']
+Retrieved
+['christ_church_000724', 'ashmolean_000350', 'magdalen_000670', 'trinity_000213', 'oxford_002207', 'magdalen_000570', 'christ_church_000115', 'bodleian_000094', 'all_souls_000207', 'keble_000091', 'new_000050', 'christ_church_000602', 'oriel_000093', 'oriel_000014', 'pitt_rivers_000015', 'radcliffe_camera_000114', 'magdalen_000550', 'oxford_002348', 'new_000879', 'magdalen_000679', 'oxford_001940', 'oxford_003205', 'pitt_rivers_000018', 'new_000197', 'oxford_000699', 'oxford_003624', 'oxford_002888', 'magdalen_000478', 'magdalen_000479', 'bodleian_000136', 'new_001019', 'oxford_002898', 'oxford_000238', 'oxford_003342', 'oxford_002559', 'pitt_rivers_000001', 'all_souls_000063', 'ashmolean_000059', 'oxford_002704', 'christ_church_000353', 'oxford_002045', 'christ_church_000643', 'christ_church_001030', 'oxford_001203', 'oxford_003033', 'oxford_001139', 'ashmolean_000326', 'ashmolean_000224', 'new_000331', 'oxford_003022', 'worcester_000112']
+Scores of retrieved
+                         name     score
+3622     christ_church_000724  2.222139
+980          ashmolean_000350  2.692736
+4864          magdalen_000670  2.910132
+4029           trinity_000213  3.004302
+4414            oxford_002207  3.019432
+4363          magdalen_000570  3.092178
+2770     christ_church_000115  3.232437
+327           bodleian_000094  3.423134
+849          all_souls_000207  3.469102
+1227             keble_000091  3.529097
+3839               new_000050  3.601784
+4087     christ_church_000602  3.636943
+1526             oriel_000093  3.783722
+633              oriel_000014  3.803951
+1756       pitt_rivers_000015  3.895908
+684   radcliffe_camera_000114  3.904140
+1788          magdalen_000550  3.911959
+4852            oxford_002348  3.943514
+1883               new_000879  3.989464
+272           magdalen_000679  4.023002
+66              oxford_001940  4.053850
+2279            oxford_003205  4.111684
+1691       pitt_rivers_000018  4.111830
+2752               new_000197  4.130030
+4923            oxford_000699  4.135948
+4234            oxford_003624  4.138502
+3235            oxford_002888  4.211742
+990           magdalen_000478  4.214842
+2956          magdalen_000479  4.229807
+4324          bodleian_000136  4.247764
+1212               new_001019  4.250598
+794             oxford_002898  4.255580
+2566            oxford_000238  4.256869
+4273            oxford_003342  4.262716
+4019            oxford_002559  4.263341
+1893       pitt_rivers_000001  4.265369
+591          all_souls_000063  4.317560
+1398         ashmolean_000059  4.327450
+356             oxford_002704  4.376386
+444      christ_church_000353  4.401100
+1280            oxford_002045  4.405287
+2382     christ_church_000643  4.455832
+609      christ_church_001030  4.507075
+3810            oxford_001203  4.526174
+4905            oxford_003033  4.539580
+4395            oxford_001139  4.553493
+4924         ashmolean_000326  4.595962
+2606         ashmolean_000224  4.606968
+2321               new_000331  4.627104
+2393            oxford_003022  4.631449
+2758         worcester_000112  4.632953
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7434835433959961
+good
+ground_truth
+['radcliffe_camera_000523', 'oxford_002904', 'bodleian_000132', 'radcliffe_camera_000176', 'radcliffe_camera_000458', 'bodleian_000337', 'oxford_002286', 'radcliffe_camera_000456', 'radcliffe_camera_000169', 'radcliffe_camera_000145', 'radcliffe_camera_000167', 'radcliffe_camera_000027', 'bodleian_000290', 'radcliffe_camera_000235', 'radcliffe_camera_000026', 'radcliffe_camera_000241', 'oxford_000583', 'radcliffe_camera_000454', 'radcliffe_camera_000034', 'radcliffe_camera_000249', 'oxford_002694', 'radcliffe_camera_000093', 'oxford_002373', 'radcliffe_camera_000325', 'radcliffe_camera_000050', 'radcliffe_camera_000447', 'radcliffe_camera_000012', 'radcliffe_camera_000226', 'radcliffe_camera_000230', 'radcliffe_camera_000108', 'radcliffe_camera_000052', 'radcliffe_camera_000098', 'radcliffe_camera_000463', 'radcliffe_camera_000373', 'radcliffe_camera_000161', 'radcliffe_camera_000326', 'oxford_000733', 'bodleian_000076', 'bodleian_000096', 'radcliffe_camera_000264', 'radcliffe_camera_000092', 'radcliffe_camera_000041', 'oxford_002701', 'radcliffe_camera_000556', 'radcliffe_camera_000021', 'radcliffe_camera_000198', 'radcliffe_camera_000040', 'radcliffe_camera_000015', 'radcliffe_camera_000139', 'radcliffe_camera_000120', 'oxford_001614', 'bodleian_000036', 'oxford_001066', 'oxford_003382', 'radcliffe_camera_000394', 'radcliffe_camera_000412', 'radcliffe_camera_000255', 'oxford_002397', 'radcliffe_camera_000006', 'radcliffe_camera_000221', 'radcliffe_camera_000219', 'oxford_002890', 'bodleian_000167', 'radcliffe_camera_000201', 'radcliffe_camera_000519', 'radcliffe_camera_000059', 'radcliffe_camera_000238', 'radcliffe_camera_000439', 'radcliffe_camera_000047', 'radcliffe_camera_000335', 'radcliffe_camera_000083', 'radcliffe_camera_000105', 'radcliffe_camera_000345', 'radcliffe_camera_000025', 'radcliffe_camera_000381', 'radcliffe_camera_000276', 'radcliffe_camera_000248', 'radcliffe_camera_000115', 'bodleian_000168', 'oxford_001122', 'keble_000108', 'keble_000207', 'radcliffe_camera_000400', 'radcliffe_camera_000270', 'oxford_000773', 'all_souls_000183', 'bodleian_000410', 'radcliffe_camera_000130', 'radcliffe_camera_000112', 'radcliffe_camera_000004', 'radcliffe_camera_000116', 'radcliffe_camera_000457', 'radcliffe_camera_000397', 'radcliffe_camera_000337', 'radcliffe_camera_000258', 'bodleian_000106', 'radcliffe_camera_000287', 'radcliffe_camera_000443', 'radcliffe_camera_000209', 'radcliffe_camera_000232', 'radcliffe_camera_000234', 'oxford_000905', 'radcliffe_camera_000233', 'radcliffe_camera_000343', 'oxford_001892']
+Retrieved
+['oxford_000905', 'radcliffe_camera_000235', 'radcliffe_camera_000098', 'radcliffe_camera_000112', 'radcliffe_camera_000209', 'balliol_000000', 'worcester_000064', 'oxford_003382', 'ashmolean_000314', 'oxford_002130', 'jesus_000014', 'oxford_001483', 'radcliffe_camera_000145', 'oxford_001365', 'new_000693', 'christ_church_000307', 'oxford_002516', 'radcliffe_camera_000093', 'oxford_000773', 'oxford_000736', 'oxford_000836', 'new_000963', 'oxford_001066', 'magdalen_000669', 'radcliffe_camera_000412', 'oxford_002951', 'magdalen_000000', 'hertford_000039', 'christ_church_000711', 'radcliffe_camera_000381', 'christ_church_000598', 'radcliffe_camera_000437', 'christ_church_000393', 'oxford_002673', 'radcliffe_camera_000477', 'radcliffe_camera_000105', 'oxford_001666', 'bodleian_000076', 'christ_church_000137', 'oxford_001152', 'keble_000199', 'oxford_002338', 'magdalen_000737', 'all_souls_000117', 'oxford_001898', 'oxford_001485', 'new_000175', 'radcliffe_camera_000279', 'radcliffe_camera_000459', 'radcliffe_camera_000287', 'oxford_003529', 'oxford_002880', 'worcester_000137', 'christ_church_000136', 'pitt_rivers_000119', 'balliol_000007', 'jesus_000400', 'oxford_002690', 'oxford_000783', 'oxford_001291', 'radcliffe_camera_000014', 'christ_church_000420', 'magdalen_000152', 'oxford_001169', 'radcliffe_camera_000276', 'trinity_000132', 'magdalen_000728', 'magdalen_000647', 'bodleian_000267', 'oxford_002166', 'oxford_003055', 'new_000915', 'all_souls_000087', 'oxford_000009', 'oxford_000583', 'oxford_000897', 'oxford_002364', 'ashmolean_000088', 'radcliffe_camera_000299', 'magdalen_000571', 'oxford_001086', 'oxford_001216', 'christ_church_000052', 'radcliffe_camera_000115', 'bodleian_000132', 'oxford_000809', 'radcliffe_camera_000454', 'all_souls_000183', 'radcliffe_camera_000371', 'oriel_000069', 'magdalen_000864', 'oxford_003430', 'radcliffe_camera_000234', 'christ_church_000127', 'new_000646', 'oxford_001523', 'christ_church_000078', 'jesus_000115', 'oxford_003077', 'oxford_002238', 'oxford_001353', 'magdalen_000696', 'oxford_002377', 'oxford_001789', 'radcliffe_camera_000367']
+Scores of retrieved
+                         name     score
+2268            oxford_000905  2.060502
+137   radcliffe_camera_000235  2.166287
+2736  radcliffe_camera_000098  2.188911
+603   radcliffe_camera_000112  2.246386
+67    radcliffe_camera_000209  2.261900
+...                       ...       ...
+2393            oxford_001353  3.095898
+88            magdalen_000696  3.098005
+3372            oxford_002377  3.114251
+436             oxford_001789  3.114259
+4889  radcliffe_camera_000367  3.114909
+
+[105 rows x 2 columns]
+precision 0.005319148936170213
+recall 0.005319148936170213
+f1 0.005319148936170213
+time taken = 
+0.7174692153930664
+good
+ground_truth
+['ashmolean_000007', 'ashmolean_000002', 'ashmolean_000024', 'ashmolean_000028', 'ashmolean_000058', 'ashmolean_000303', 'ashmolean_000005', 'ashmolean_000106', 'oxford_001964', 'ashmolean_000079', 'ashmolean_000000', 'ashmolean_000016']
+Retrieved
+['trinity_000015', 'new_000057', 'ashmolean_000061', 'pitt_rivers_000038', 'worcester_000120', 'christ_church_001136', 'new_000236', 'oxford_000633', 'jesus_000402', 'cornmarket_000047', 'new_000690', 'oxford_003465']
+Scores of retrieved
+                      name     score
+2958        trinity_000015  1.704681
+4171            new_000057  1.773453
+2163      ashmolean_000061  1.802817
+458     pitt_rivers_000038  1.926866
+260       worcester_000120  1.960129
+2862  christ_church_001136  1.972876
+5013            new_000236  2.007019
+1325         oxford_000633  2.010564
+4641          jesus_000402  2.012373
+479      cornmarket_000047  2.013313
+4053            new_000690  2.084401
+814          oxford_003465  2.084676
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7852113246917725
+good
+ground_truth
+['cornmarket_000047', 'cornmarket_000131', 'oxford_000545', 'oxford_000601', 'cornmarket_000019']
+Retrieved
+['worcester_000147', 'worcester_000126', 'oxford_002675', 'new_000161', 'trinity_000336']
+Scores of retrieved
+                  name     score
+3091  worcester_000147  1.927038
+3623  worcester_000126  2.006469
+1081     oxford_002675  2.025088
+303         new_000161  2.044033
+3472    trinity_000336  2.045348
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.7678749561309814
+good
+ground_truth
+['ashmolean_000007', 'ashmolean_000002', 'ashmolean_000024', 'ashmolean_000028', 'ashmolean_000058', 'ashmolean_000303', 'ashmolean_000005', 'ashmolean_000106', 'oxford_001964', 'ashmolean_000079', 'ashmolean_000000', 'ashmolean_000016']
+Retrieved
+['oriel_000044', 'hertford_000071', 'pitt_rivers_000015', 'magdalen_001157', 'radcliffe_camera_000324', 'ashmolean_000326', 'new_000858', 'pitt_rivers_000018', 'trinity_000321', 'new_000978', 'oxford_002898', 'hertford_000103']
+Scores of retrieved
+                         name     score
+768              oriel_000044  2.698912
+511           hertford_000071  2.703745
+1756       pitt_rivers_000015  2.784770
+1911          magdalen_001157  2.917087
+1364  radcliffe_camera_000324  2.926837
+4924         ashmolean_000326  2.955258
+4631               new_000858  2.966650
+1691       pitt_rivers_000018  3.012114
+2822           trinity_000321  3.052520
+3575               new_000978  3.145886
+794             oxford_002898  3.146633
+1014          hertford_000103  3.150876
+precision 0.0
+recall 0.0
+f1 0.0
+time taken = 
+0.692702054977417
+good
+ground_truth
+['radcliffe_camera_000523', 'oxford_002904', 'bodleian_000132', 'radcliffe_camera_000176', 'radcliffe_camera_000458', 'bodleian_000337', 'oxford_002286', 'radcliffe_camera_000456', 'radcliffe_camera_000169', 'radcliffe_camera_000145', 'radcliffe_camera_000167', 'radcliffe_camera_000027', 'bodleian_000290', 'radcliffe_camera_000235', 'radcliffe_camera_000026', 'radcliffe_camera_000241', 'oxford_000583', 'radcliffe_camera_000454', 'radcliffe_camera_000034', 'radcliffe_camera_000249', 'oxford_002694', 'radcliffe_camera_000093', 'oxford_002373', 'radcliffe_camera_000325', 'radcliffe_camera_000050', 'radcliffe_camera_000447', 'radcliffe_camera_000012', 'radcliffe_camera_000226', 'radcliffe_camera_000230', 'radcliffe_camera_000108', 'radcliffe_camera_000052', 'radcliffe_camera_000098', 'radcliffe_camera_000463', 'radcliffe_camera_000373', 'radcliffe_camera_000161', 'radcliffe_camera_000326', 'oxford_000733', 'bodleian_000076', 'bodleian_000096', 'radcliffe_camera_000264', 'radcliffe_camera_000092', 'radcliffe_camera_000041', 'oxford_002701', 'radcliffe_camera_000556', 'radcliffe_camera_000021', 'radcliffe_camera_000198', 'radcliffe_camera_000040', 'radcliffe_camera_000015', 'radcliffe_camera_000139', 'radcliffe_camera_000120', 'oxford_001614', 'bodleian_000036', 'oxford_001066', 'oxford_003382', 'radcliffe_camera_000394', 'radcliffe_camera_000412', 'radcliffe_camera_000255', 'oxford_002397', 'radcliffe_camera_000006', 'radcliffe_camera_000221', 'radcliffe_camera_000219', 'oxford_002890', 'bodleian_000167', 'radcliffe_camera_000201', 'radcliffe_camera_000519', 'radcliffe_camera_000059', 'radcliffe_camera_000238', 'radcliffe_camera_000439', 'radcliffe_camera_000047', 'radcliffe_camera_000335', 'radcliffe_camera_000083', 'radcliffe_camera_000105', 'radcliffe_camera_000345', 'radcliffe_camera_000025', 'radcliffe_camera_000381', 'radcliffe_camera_000276', 'radcliffe_camera_000248', 'radcliffe_camera_000115', 'bodleian_000168', 'oxford_001122', 'keble_000108', 'keble_000207', 'radcliffe_camera_000400', 'radcliffe_camera_000270', 'oxford_000773', 'all_souls_000183', 'bodleian_000410', 'radcliffe_camera_000130', 'radcliffe_camera_000112', 'radcliffe_camera_000004', 'radcliffe_camera_000116', 'radcliffe_camera_000457', 'radcliffe_camera_000397', 'radcliffe_camera_000337', 'radcliffe_camera_000258', 'bodleian_000106', 'radcliffe_camera_000287', 'radcliffe_camera_000443', 'radcliffe_camera_000209', 'radcliffe_camera_000232', 'radcliffe_camera_000234', 'oxford_000905', 'radcliffe_camera_000233', 'radcliffe_camera_000343', 'oxford_001892']
+Retrieved
+['magdalen_000146', 'keble_000113', 'oxford_003528', 'oxford_001523', 'christ_church_000758', 'magdalen_000153', 'new_000654', 'magdalen_000723', 'christ_church_000174', 'magdalen_000111', 'oxford_002615', 'trinity_000196', 'oxford_003548', 'jesus_000123', 'trinity_000093', 'magdalen_000294', 'oxford_001752', 'oxford_002272', 'christ_church_000042', 'magdalen_000871', 'balliol_000049', 'oxford_001937', 'magdalen_000183', 'oxford_000877', 'magdalen_001019', 'balliol_000204', 'magdalen_000830', 'oxford_001365', 'oxford_000809', 'oxford_003142', 'ashmolean_000241', 'oxford_001216', 'trinity_000006', 'christ_church_000827', 'pitt_rivers_000044', 'christ_church_000182', 'oxford_000755', 'oxford_000181', 'magdalen_000696', 'oxford_002346', 'hertford_000068', 'balliol_000032', 'magdalen_000296', 'magdalen_000741', 'oxford_001556', 'worcester_000193', 'balliol_000111', 'ashmolean_000183', 'oxford_000023', 'jesus_000120', 'trinity_000194', 'hertford_000109', 'magdalen_000297', 'ashmolean_000088', 'oxford_003225', 'radcliffe_camera_000012', 'oxford_002821', 'new_000251', 'christ_church_000219', 'cornmarket_000030', 'radcliffe_camera_000088', 'new_000170', 'magdalen_000384', 'ashmolean_000280', 'oxford_001393', 'radcliffe_camera_000141', 'ashmolean_000242', 'oxford_000423', 'pitt_rivers_000127', 'oxford_003577', 'magdalen_000944', 'jesus_000382', 'oxford_000493', 'oxford_000351', 'radcliffe_camera_000063', 'oxford_003393', 'trinity_000138', 'balliol_000019', 'magdalen_000527', 'christ_church_000410', 'oxford_002038', 'hertford_000119', 'oxford_003032', 'radcliffe_camera_000248', 'balliol_000042', 'cornmarket_000086', 'trinity_000091', 'magdalen_000986', 'keble_000004', 'christ_church_001049', 'oxford_001276', 'cornmarket_000107', 'jesus_000115', 'pitt_rivers_000014', 'christ_church_000831', 'bodleian_000330', 'oxford_001760', 'oxford_002085', 'jesus_000125', 'christ_church_001047', 'christ_church_000693', 'oxford_002373', 'oxford_002251', 'bodleian_000104', 'new_000678']
+Scores of retrieved
+                      name     score
+252        magdalen_000146  1.671752
+1065          keble_000113  1.733085
+3598         oxford_003528  1.776488
+4239         oxford_001523  1.787728
+3325  christ_church_000758  1.861576
+...                    ...       ...
+1767  christ_church_000693  2.578193
+3830         oxford_002373  2.579085
+536          oxford_002251  2.579112
+2967       bodleian_000104  2.580219
+3033            new_000678  2.580445
+
+[105 rows x 2 columns]
+precision 0.0
+recall 0.0
+f1 0.0
+*** Average stats *** 
+good retrieved = 1.7575757575757576
+ok retrieved = 0.0
+junk retrieved = 0.0
